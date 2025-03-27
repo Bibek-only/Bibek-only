@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-only&" alt="bibek-only" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gyaneswar-1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bibek-only&" alt="bibek-only)<br/>
