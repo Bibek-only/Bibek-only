@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibek-only&show_icons=true&locale=en" alt="bibek-only" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-only&" alt="bibek-only" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gyaneswar-1&theme=dark&hide_border=false)<br/>
